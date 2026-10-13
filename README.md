@@ -12,6 +12,7 @@ AI 产品经理，关注 AI 产品设计与应用落地。
 | :--- | :--- | :--- |
 | [**Knowledge Agent**](https://github.com/tian415/knowledge-agent)<br>知识整理 | 将 AI 对话整理为 Markdown 笔记，支持来源查看与保存前审核。 | 提供本地演示，无需 API Key |
 | [**EchoVault**](https://github.com/tian415/echovault)<br>辅助写作 | 以个人历史文本为参考，辅助生成写作草稿。 | 本地工具原型 |
+| [**Personal News Assistant**](https://github.com/tian415/personal-news-showcase)<br>新闻整理 | 汇集公开来源，生成中文新闻简报，支持网页阅读与反馈。 | 提供合成新闻演示 |
 
 项目以个人实践和应用探索为主。实现范围、运行方法与已知限制见各项目 README。
 
