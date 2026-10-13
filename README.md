@@ -1,16 +1,18 @@
-做一些自己用的工具，也在这里记录学习和实践。
+AI 产品经理，关注 AI 产品设计与应用落地。
 
-![tian415 · 个人项目与学习记录](assets/profile.svg)
+![tian415 · AI 产品经理 / 项目与实践](assets/profile.svg)
+
+### 关于我
+
+通过个人项目探索 AI 的实际应用，使用 AI 辅助开发，记录产品设计、实现与验证过程。当前项目涉及信息获取、知识整理和辅助写作。
 
 ### 项目
 
-| 项目 | 在做什么 | 当前进展 |
+| 项目 | 项目简介 | 当前进展 |
 | :--- | :--- | :--- |
-| [**Knowledge Agent**](https://github.com/tian415/knowledge-agent)<br>笔记整理 | 把 AI 对话整理成 Markdown 笔记，保存前查看来源和改动。 | 有本地演示，无需 API Key |
-| [**EchoVault**](https://github.com/tian415/echovault)<br>辅助写作 | 用自己过去的文字作为参考，尝试辅助起草新内容。 | 本地工具原型 |
+| [**Knowledge Agent**](https://github.com/tian415/knowledge-agent)<br>知识整理 | 将 AI 对话整理为 Markdown 笔记，支持来源查看与保存前审核。 | 提供本地演示，无需 API Key |
+| [**EchoVault**](https://github.com/tian415/echovault)<br>辅助写作 | 以个人历史文本为参考，辅助生成写作草稿。 | 本地工具原型 |
 
-### 关于这些项目
+项目以个人实践和应用探索为主。实现范围、运行方法与已知限制见各项目 README。
 
-开发过程中会用 AI 帮忙。项目以个人使用和实验为主，还在修改；具体实现、运行方法和限制放在各自的 README 里。
-
-想试一试的话，可以从 [Knowledge Agent 的本地演示](https://github.com/tian415/knowledge-agent#三步体验)开始。
+[体验 Knowledge Agent](https://github.com/tian415/knowledge-agent#三步体验) · [浏览全部仓库](https://github.com/tian415?tab=repositories)

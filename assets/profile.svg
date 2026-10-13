@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="tian415 个人项目与学习记录">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="tian415 AI 产品经理 · 项目与实践">
 <rect width="1200" height="220" rx="14" fill="#f5f2ec"/>
 <path d="M42 38v144" stroke="#bf7653" stroke-width="3"/>
 <text x="70" y="98" fill="#263b37" font-family="Georgia,serif" font-size="62">tian415<tspan fill="#bf7653">.</tspan></text>
-<text x="72" y="144" fill="#67706a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" letter-spacing="3">个人项目与学习记录</text>
+<text x="72" y="144" fill="#67706a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="21" letter-spacing="3">AI 产品经理 · 项目与实践</text>
 <g transform="translate(875 38)" fill="none" stroke="#829087" stroke-width="1.5">
 <rect x="26" y="12" width="180" height="132" rx="6" fill="#ece8df" stroke="#d1d4c8"/>
 <rect width="180" height="132" rx="6" fill="#fcfaf6"/>
